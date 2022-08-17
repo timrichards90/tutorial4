@@ -9,6 +9,7 @@ public class Calc {
 
     public int subtract(int x, int y)
     {
+        //subtract function
         return x+y;
     }
 }
