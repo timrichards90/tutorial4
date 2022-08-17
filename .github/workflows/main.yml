@@ -1,0 +1,8 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Run Maven build
+
+# Run tests
+      - name: Run maven tests
+        run: mvn clean test
+
